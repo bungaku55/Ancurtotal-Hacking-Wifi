@@ -92,7 +92,7 @@ echo  "SABAR YA NUNGGU NYA :v " | lolcat
 echo
 echo  "NGOPI!!! " | lolcat
 echo
-echo  "#TTD EKAY ANCURTOTAL 😎" | lolcat
+echo  "#TTD ANJING ANCURTOTAL 😎" | lolcat
 echo  "#ORANG GILA MAH BEBAS😎" | lolcat
 echo ""  
 echo ""  
